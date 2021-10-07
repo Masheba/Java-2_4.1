@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class SQRServiceTest {
 
     @Test
-    public void shouldcalculateSquareNumber() {
+    public void shouldCalculateSquareNumber() {
         SQRService sqrService = new SQRService();
         int lowNumber = 200;
         int highNumber = 300;
